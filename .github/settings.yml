@@ -10,7 +10,7 @@ repository:
   description: mcdd-ai-chat
 
   # A URL with more information about the repository
-  homepage: https://github.com/mcdd1024/mcdd-ai-chat
+  homepage: https://github.com/coder-mcdd/mcdd-ai-chat
 
   # A comma-separated list of topics to set on the repository
   topics: template
